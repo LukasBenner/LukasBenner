@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Lukas 👋
 
 I'm a passionate **Software Developer** and **Master's student in Software Engineering** at HTWG Konstanz.
@@ -47,4 +46,3 @@ You'll find me:
 - Or snowboarding during the winter season ❄️
 
 Thanks for visiting my profile! Feel free to reach out – I'm always open for collaboration or a good tech chat.
-```
